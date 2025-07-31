@@ -71,7 +71,7 @@ Cyclistic's marketing team wants to understand user behavior to inform targeted 
 - **Popular Stations**: Casual users favor tourist hotspots like *Streeter Dr & Grand Ave*
 - **Behavior Patterns**: Members likely use bikes for commuting; casuals for recreation
 
-See full documented insights in [`github.com/CtrlJil/cyclistic_case_study_insights.md`](Cyclistic_Bikes_case_study/cyclistic_case_study_insights.md)
+See full documented insights in [`github.com/CtrlJil/Cyclistic_Bikes_case_study/cyclistic_case_study_insights.md`](Cyclistic_Bikes_case_study/cyclistic_case_study_insights.md)
 
 ---
 
