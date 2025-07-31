@@ -22,7 +22,7 @@ Cyclistic's marketing team wants to understand user behavior to inform targeted 
 ## 🧮 Tools & Technologies
 
 - **SQL Server (MSSMS)** – Data cleaning, transformation, analysis
-- **Excel / Power BI / Tableau** *(optional visualization layer)*
+- **Power BI 
 - **Git / GitHub** – Version control and project management
 - **Divvy System Data** – [Divvy Bike-Share System Data](https://divvybikes.com/system-data)
 
